@@ -37,14 +37,6 @@ Meu objetivo é me tornar um desenvolvedor frontend e criar interfaces modernas,
 
 ---
 
-## 📈 GitHub Stats
-
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisVieira-ux&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVieira-ux&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivos
 
 - Evoluir como desenvolvedor frontend
